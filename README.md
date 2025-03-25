@@ -1,6 +1,6 @@
 # Hi there, I'm Suhani 👋
 
-Frontend developer passionate about creating beautiful, responsive, and user-friendly web experiences.
+A frontend developer passionate about creating beautiful, responsive, and user-friendly web experiences.
 
 
 ## 💻 Tech Stack
