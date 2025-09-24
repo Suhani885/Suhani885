@@ -1,6 +1,6 @@
 # Hi there, I'm Suhani 👋
 
-A frontend developer passionate about creating pixel-perfect, responsive, and user-friendly web experiences.
+A web developer passionate about creating pixel-perfect, responsive, and user-friendly web experiences.
 
 
 ## 💻 Tech Stack
